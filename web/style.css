@@ -26,7 +26,8 @@
 }
 
 .logo{
-    color: #ff7200;
+    /* color: #ff7200; */
+    color: red;
     font-size: 35px;
     font-family: Arial;
     padding-left: 30px;
